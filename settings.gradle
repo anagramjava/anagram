@@ -1,0 +1,6 @@
+rootProject.name = 'anagram'
+include 'application'
+include 'application:core'
+include 'application:entrypoint'
+include 'application:configuration'
+
